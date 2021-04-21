@@ -1,7 +1,5 @@
 # 2048
 
-## Overview:
-https://sagana-sivanesan.github.io/2048/
 
 ## Skills
 * Fluency in JavaScript, Jquery, html, CSS, Visual Studio Code IDE
